@@ -63,6 +63,7 @@ Project Structure
 ├── bengaluru_house_prices.csv
 ├── House_Price_Analysis.ipynb
 ├── README.md
+
 How to Run
 Clone the repository
 git clone https://github.com/your-username/bengaluru-house-price-analysis.git
