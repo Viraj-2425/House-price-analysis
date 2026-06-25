@@ -43,7 +43,6 @@ Outlier detection and removal
 Feature Engineering
 
 Created a new feature:
-
 Price Per Square Foot
 
 price_per_sqft = (price * 100000) / total_sqft
@@ -53,6 +52,7 @@ Scatter plot of area vs price
 Location-wise price comparison
 BHK distribution charts
 Boxplots for outlier detection
+
 Key Insights
 Property prices vary significantly across locations.
 Larger properties generally have higher prices.
